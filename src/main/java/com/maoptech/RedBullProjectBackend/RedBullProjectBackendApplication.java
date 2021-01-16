@@ -8,6 +8,8 @@ public class RedBullProjectBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RedBullProjectBackendApplication.class, args);
+		
+		SpringApplication.run(RedBullProjectBackendApplication.class, args);
 	}
 
 }
